@@ -39,7 +39,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build Angular
-        run: pnpm run build -- --base-href=/topman_realstyle/
+        run: pnpm run build --base-href=/topman_realstyle/
 
       - name: Prepare GitHub Pages
         shell: bash
