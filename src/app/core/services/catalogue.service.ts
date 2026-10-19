@@ -10,12 +10,12 @@ export class CatalogueService {
   private readonly injector = inject(Injector);
   private readonly productCollections = new Map<string, Observable<Product[]>>();
 
-  readonly categories = toSignal(this.http.get<Category[]>('/data/categories.json'), {
+  readonly categories = toSignal(this.http.get<Category[]>('data/categories.json'), {
     injector: this.injector,
     initialValue: [],
   });
 
-  readonly locations = toSignal(this.http.get<StoreLocation[]>('/data/locations.json'), {
+  readonly locations = toSignal(this.http.get<StoreLocation[]>('data/locations.json'), {
     injector: this.injector,
     initialValue: [],
   });
@@ -26,7 +26,7 @@ export class CatalogueService {
     const cachedCollection = this.productCollections.get(categorySlug);
     if (cachedCollection) return cachedCollection;
 
-    const collection = this.http.get<Product[]>(`/data/products/${categorySlug}.json`).pipe(
+    const collection = this.http.get<Product[]>(`data/products/${categorySlug}.json`).pipe(
       catchError(() => of([])),
       shareReplay({ bufferSize: 1, refCount: false }),
     );

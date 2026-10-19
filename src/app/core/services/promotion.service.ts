@@ -8,7 +8,7 @@ export class PromotionService {
   private readonly http = inject(HttpClient);
   private readonly injector = inject(Injector);
 
-  private readonly promotions = toSignal(this.http.get<Promotion[]>('/data/promotions.json'), {
+  private readonly promotions = toSignal(this.http.get<Promotion[]>('data/promotions.json'), {
     injector: this.injector,
     initialValue: [],
   });
