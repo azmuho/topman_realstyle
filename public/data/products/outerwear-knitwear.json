@@ -10,22 +10,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 1 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 1 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 1 in stone"
       }
     ]
@@ -41,22 +41,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 2 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 2 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 2 in black"
       }
     ]
@@ -72,22 +72,22 @@
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 3 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 3 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 3 in navy"
       }
     ]
@@ -103,22 +103,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 4 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 4 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 4 in stone"
       }
     ]
@@ -134,22 +134,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 5 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 5 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 5 in black"
       }
     ]
@@ -165,22 +165,22 @@
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 6 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 6 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 6 in navy"
       }
     ]
@@ -196,22 +196,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 7 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 7 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 7 in stone"
       }
     ]
@@ -227,22 +227,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 8 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 8 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 8 in black"
       }
     ]
@@ -258,22 +258,22 @@
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 9 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 9 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 9 in navy"
       }
     ]
@@ -289,22 +289,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 10 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 10 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 10 in stone"
       }
     ]
@@ -320,22 +320,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 11 in navy"
       },
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 11 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 11 in black"
       }
     ]
@@ -351,22 +351,22 @@
       {
         "colour": "Stone",
         "hex": "#aa9f8b",
-        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "image": "images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/pants-01-480.webp",
         "alt": "Outerwear & Knitwear item 12 in stone"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "image": "images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/suit-03-480.webp",
         "alt": "Outerwear & Knitwear item 12 in black"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
-        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "image": "images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "images/products/outerwear-knitwear/shirt-01-480.webp",
         "alt": "Outerwear & Knitwear item 12 in navy"
       }
     ]

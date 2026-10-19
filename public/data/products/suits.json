@@ -11,22 +11,22 @@
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 1 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 1 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 1 in black"
       }
     ]
@@ -43,22 +43,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 2 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 2 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 2 in grey"
       }
     ]
@@ -75,22 +75,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 3 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 3 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 3 in navy"
       }
     ]
@@ -107,22 +107,22 @@
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 4 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 4 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 4 in black"
       }
     ]
@@ -139,22 +139,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 5 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 5 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 5 in grey"
       }
     ]
@@ -171,22 +171,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 6 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 6 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 6 in navy"
       }
     ]
@@ -203,22 +203,22 @@
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 7 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 7 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 7 in black"
       }
     ]
@@ -235,22 +235,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 8 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 8 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 8 in grey"
       }
     ]
@@ -267,22 +267,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 9 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 9 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 9 in navy"
       }
     ]
@@ -299,22 +299,22 @@
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 10 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 10 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 10 in black"
       }
     ]
@@ -331,22 +331,22 @@
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 11 in navy"
       },
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 11 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 11 in grey"
       }
     ]
@@ -363,22 +363,22 @@
       {
         "colour": "Black",
         "hex": "#181818",
-        "image": "/images/products/suits/suit-03-960.webp",
-        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "image": "images/products/suits/suit-03-960.webp",
+        "thumbnail": "images/products/suits/suit-03-480.webp",
         "alt": "Suits item 12 in black"
       },
       {
         "colour": "Grey",
         "hex": "#84878b",
-        "image": "/images/products/suits/suit-01-960.webp",
-        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "image": "images/products/suits/suit-01-960.webp",
+        "thumbnail": "images/products/suits/suit-01-480.webp",
         "alt": "Suits item 12 in grey"
       },
       {
         "colour": "Navy",
         "hex": "#172d51",
-        "image": "/images/products/suits/suit-02-960.webp",
-        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "image": "images/products/suits/suit-02-960.webp",
+        "thumbnail": "images/products/suits/suit-02-480.webp",
         "alt": "Suits item 12 in navy"
       }
     ]

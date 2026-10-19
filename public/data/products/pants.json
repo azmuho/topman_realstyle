@@ -12,22 +12,22 @@
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 1 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 1 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 1 in denim"
       }
     ]
@@ -45,22 +45,22 @@
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 2 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 2 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 2 in beige"
       }
     ]
@@ -78,22 +78,22 @@
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 3 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 3 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 3 in black"
       }
     ]
@@ -111,22 +111,22 @@
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 4 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 4 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 4 in denim"
       }
     ]
@@ -144,22 +144,22 @@
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 5 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 5 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 5 in beige"
       }
     ]
@@ -177,22 +177,22 @@
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 6 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 6 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 6 in black"
       }
     ]
@@ -210,22 +210,22 @@
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 7 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 7 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 7 in denim"
       }
     ]
@@ -243,22 +243,22 @@
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 8 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 8 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 8 in beige"
       }
     ]
@@ -276,22 +276,22 @@
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 9 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 9 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 9 in black"
       }
     ]
@@ -309,22 +309,22 @@
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 10 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 10 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 10 in denim"
       }
     ]
@@ -342,22 +342,22 @@
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 11 in black"
       },
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 11 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 11 in beige"
       }
     ]
@@ -375,22 +375,22 @@
       {
         "colour": "Denim",
         "hex": "#42617d",
-        "image": "/images/products/pants/pants-03-960.webp",
-        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "image": "images/products/pants/pants-03-960.webp",
+        "thumbnail": "images/products/pants/pants-03-480.webp",
         "alt": "Pants item 12 in denim"
       },
       {
         "colour": "Beige",
         "hex": "#c2aa7d",
-        "image": "/images/products/pants/pants-01-960.webp",
-        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "image": "images/products/pants/pants-01-960.webp",
+        "thumbnail": "images/products/pants/pants-01-480.webp",
         "alt": "Pants item 12 in beige"
       },
       {
         "colour": "Black",
         "hex": "#202124",
-        "image": "/images/products/pants/pants-02-960.webp",
-        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "image": "images/products/pants/pants-02-960.webp",
+        "thumbnail": "images/products/pants/pants-02-480.webp",
         "alt": "Pants item 12 in black"
       }
     ]
