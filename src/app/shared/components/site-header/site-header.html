@@ -1,0 +1,54 @@
+<header class="site-header">
+  @if (activePromotion(); as promotion) {
+    @if (!promotionDismissed()) {
+      <div class="promotion-bar">
+        <div class="promotion-bar__inner container">
+          <a routerLink="/" fragment="offer" (click)="closeMenu()">
+            <strong>{{ promotion.title }}</strong>
+            <span>{{ promotion.terms }}</span>
+          </a>
+          <button type="button" aria-label="Dismiss promotion" (click)="dismissPromotion()">
+            &times;
+          </button>
+        </div>
+      </div>
+    }
+  }
+
+  <div class="site-header__inner container">
+    <a class="brand" routerLink="/" aria-label="Topman Realstyle home" (click)="closeMenu()">
+      <img
+        class="brand__logo"
+        src="/images/brand/topman-realstyle-logo.png"
+        alt="Topman Realstyle"
+        width="493"
+        height="474"
+      />
+      <span class="brand__name">Topman Realstyle</span>
+    </a>
+
+    <button
+      class="menu-toggle"
+      type="button"
+      aria-controls="primary-navigation"
+      [attr.aria-expanded]="menuOpen()"
+      (click)="toggleMenu()"
+    >
+      <span></span>
+      <span></span>
+      <span class="sr-only">Toggle navigation</span>
+    </button>
+
+    <nav
+      id="primary-navigation"
+      class="navigation"
+      aria-label="Main navigation"
+      [class.navigation--open]="menuOpen()"
+    >
+      <a routerLink="/" (click)="closeMenu()">Home</a>
+      <a routerLink="/" fragment="collections" (click)="closeMenu()">Collections</a>
+      <a routerLink="/" fragment="locations" (click)="closeMenu()">Locations</a>
+      <app-social-links />
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,374 @@
+[
+  {
+    "id": "outerwear-knitwear-1",
+    "categorySlug": "outerwear-knitwear",
+    "price": 2990,
+    "newArrival": true,
+    "sizes": ["M", "L", "XL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 1 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 1 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 1 in stone"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-2",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3290,
+    "newArrival": true,
+    "sizes": ["S", "M", "L", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 2 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 2 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 2 in black"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-3",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3590,
+    "newArrival": true,
+    "sizes": ["S", "M", "XL", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 3 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 3 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 3 in navy"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-4",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3890,
+    "newArrival": false,
+    "sizes": ["S", "L", "XL", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 4 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 4 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 4 in stone"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-5",
+    "categorySlug": "outerwear-knitwear",
+    "price": 2990,
+    "newArrival": false,
+    "sizes": ["M", "L", "XL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 5 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 5 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 5 in black"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-6",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3290,
+    "newArrival": false,
+    "sizes": ["S", "M", "L", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 6 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 6 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 6 in navy"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-7",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3590,
+    "newArrival": false,
+    "sizes": ["S", "M", "XL", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 7 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 7 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 7 in stone"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-8",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3890,
+    "newArrival": false,
+    "sizes": ["S", "L", "XL", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 8 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 8 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 8 in black"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-9",
+    "categorySlug": "outerwear-knitwear",
+    "price": 2990,
+    "newArrival": false,
+    "sizes": ["M", "L", "XL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 9 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 9 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 9 in navy"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-10",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3290,
+    "newArrival": false,
+    "sizes": ["S", "M", "L", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 10 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 10 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 10 in stone"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-11",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3590,
+    "newArrival": false,
+    "sizes": ["S", "M", "XL", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 11 in navy"
+      },
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 11 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 11 in black"
+      }
+    ]
+  },
+  {
+    "id": "outerwear-knitwear-12",
+    "categorySlug": "outerwear-knitwear",
+    "price": 3890,
+    "newArrival": false,
+    "sizes": ["S", "L", "XL", "XXL"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Stone",
+        "hex": "#aa9f8b",
+        "image": "/images/products/outerwear-knitwear/pants-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/pants-01-480.webp",
+        "alt": "Outerwear & Knitwear item 12 in stone"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/outerwear-knitwear/suit-03-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/suit-03-480.webp",
+        "alt": "Outerwear & Knitwear item 12 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/outerwear-knitwear/shirt-01-960.webp",
+        "thumbnail": "/images/products/outerwear-knitwear/shirt-01-480.webp",
+        "alt": "Outerwear & Knitwear item 12 in navy"
+      }
+    ]
+  }
+]

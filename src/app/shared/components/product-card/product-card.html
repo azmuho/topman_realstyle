@@ -1,0 +1,51 @@
+<article class="product-card">
+  <div class="product-card__media">
+    @if (product().newArrival) {
+      <span class="product-card__badge">New arrival</span>
+    }
+    <img
+      [src]="selectedVariant().image"
+      [srcset]="selectedVariant().thumbnail + ' 480w, ' + selectedVariant().image + ' 960w'"
+      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+      [alt]="selectedVariant().alt"
+      width="960"
+      height="1200"
+      loading="lazy"
+      decoding="async"
+    />
+  </div>
+
+  <div class="product-card__body">
+    @if (product().code; as code) {
+      <p class="product-card__code">Code: {{ code }}</p>
+    }
+
+    <dl class="product-card__details">
+      <div>
+        <dt>Price</dt>
+        <dd class="product-card__price">{{ formatPrice(product().price) }}</dd>
+      </div>
+      <div>
+        <dt>Sizes</dt>
+        <dd>{{ product().sizes.join(' · ') }}</dd>
+      </div>
+      <div>
+        <dt>Colours</dt>
+        <dd class="swatches">
+          @for (variant of product().variants; track variant.colour; let index = $index) {
+            <button
+              type="button"
+              class="swatch"
+              [class.swatch--active]="selectedVariantIndex() === index"
+              [style.--swatch-colour]="variant.hex"
+              [attr.aria-label]="'Show ' + variant.colour + ' colour'"
+              [attr.aria-pressed]="selectedVariantIndex() === index"
+              [title]="variant.colour"
+              (click)="selectVariant(index)"
+            ></button>
+          }
+        </dd>
+      </div>
+    </dl>
+  </div>
+</article>

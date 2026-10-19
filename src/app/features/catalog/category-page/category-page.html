@@ -1,0 +1,134 @@
+<main>
+  @if (category(); as selectedCategory) {
+    <header class="category-hero">
+      <div class="container category-hero__inner">
+        <div>
+          <nav class="breadcrumbs" aria-label="Breadcrumb">
+            <a routerLink="/">Home</a><span>/</span
+            ><a routerLink="/" fragment="collections">Collections</a><span>/</span
+            ><span>{{ selectedCategory.name }}</span>
+          </nav>
+          <p class="eyebrow">Topman Realstyle collection</p>
+          <h1>{{ selectedCategory.name }}</h1>
+          <p>{{ selectedCategory.description }}</p>
+        </div>
+        <img
+          [src]="selectedCategory.image"
+          [srcset]="selectedCategory.thumbnail + ' 480w, ' + selectedCategory.image + ' 960w'"
+          sizes="(max-width: 768px) 100vw, 42vw"
+          [alt]="selectedCategory.imageAlt"
+          width="960"
+          height="1200"
+          fetchpriority="high"
+        />
+      </div>
+    </header>
+
+    <section id="catalogue" class="section catalogue">
+      <div class="container">
+        @if (filterGroups().length > 0) {
+          <div class="catalogue-filters" aria-label="Catalogue filters">
+            <div class="catalogue-filters__heading">
+              <div>
+                <p class="eyebrow">Refine collection</p>
+                <h2>Find your style</h2>
+              </div>
+              <button
+                type="button"
+                class="catalogue-filters__reset"
+                [disabled]="!hasActiveFilters()"
+                (click)="clearAllFilters()"
+              >
+                Clear all
+              </button>
+            </div>
+
+            <div class="catalogue-filters__groups">
+              @for (group of filterGroups(); track group.key) {
+                <div class="filter-group">
+                  <span class="filter-group__label">{{ group.label }}</span>
+                  <div class="filter-group__options">
+                    <button
+                      type="button"
+                      class="filter-chip"
+                      [class.filter-chip--active]="!(selectedFilters()[group.key]?.length > 0)"
+                      [attr.aria-pressed]="!(selectedFilters()[group.key]?.length > 0)"
+                      (click)="clearFilterGroup(group.key)"
+                    >
+                      All
+                    </button>
+                    @for (option of group.options; track option) {
+                      <button
+                        type="button"
+                        class="filter-chip"
+                        [class.filter-chip--active]="isFilterSelected(group.key, option)"
+                        [attr.aria-pressed]="isFilterSelected(group.key, option)"
+                        (click)="toggleFilter(group.key, option)"
+                      >
+                        {{ option }}
+                      </button>
+                    }
+                  </div>
+                </div>
+              }
+            </div>
+          </div>
+        }
+
+        <div class="catalogue__bar">
+          <strong>{{ filteredProducts().length }} styles</strong>
+          <span>Page {{ currentPage() }} of {{ totalPages() }} · 10 styles per page</span>
+        </div>
+
+        @if (visibleProducts().length > 0) {
+          <div class="product-grid">
+            @for (product of visibleProducts(); track product.id) {
+              <app-product-card [product]="product" />
+            }
+          </div>
+        } @else {
+          <div class="catalogue__empty">
+            <h2>No matching styles</h2>
+            <p>Try removing one or more filters to see more products.</p>
+            <button type="button" (click)="clearAllFilters()">Show all styles</button>
+          </div>
+        }
+
+        @if (totalPages() > 1) {
+          <nav class="pagination" aria-label="Catalogue pages">
+            <button
+              type="button"
+              [disabled]="currentPage() === 1"
+              (click)="goToPage(currentPage() - 1)"
+            >
+              Previous
+            </button>
+            @for (page of pageNumbers(); track page) {
+              <button
+                type="button"
+                [class.pagination__page--active]="currentPage() === page"
+                [attr.aria-current]="currentPage() === page ? 'page' : null"
+                (click)="goToPage(page)"
+              >
+                {{ page }}
+              </button>
+            }
+            <button
+              type="button"
+              [disabled]="currentPage() === totalPages()"
+              (click)="goToPage(currentPage() + 1)"
+            >
+              Next
+            </button>
+          </nav>
+        }
+      </div>
+    </section>
+  } @else {
+    <section class="section empty-state container">
+      <p class="eyebrow">Collection unavailable</p>
+      <h1>We could not find this collection.</h1>
+      <a routerLink="/" fragment="collections">Return to all collections</a>
+    </section>
+  }
+</main>

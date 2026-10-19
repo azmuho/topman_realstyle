@@ -1,0 +1,51 @@
+:host {
+  display: block;
+}
+
+.social-links {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.social-links a {
+  display: grid;
+  width: 2.5rem;
+  height: 2.5rem;
+  color: currentColor;
+  border: 1px solid rgb(255 255 255 / 25%);
+  border-radius: 50%;
+  place-items: center;
+  transition:
+    background var(--transition-fast),
+    border-color var(--transition-fast),
+    transform var(--transition-fast);
+}
+
+.social-links a:hover {
+  background: var(--color-brand-red);
+  border-color: var(--color-brand-red);
+  transform: translateY(-0.1rem);
+}
+
+.social-links svg {
+  width: 1.1rem;
+  height: 1.1rem;
+  overflow: visible;
+  fill: currentColor;
+  stroke: currentColor;
+  stroke-width: 1.8;
+}
+
+.social-links svg path {
+  stroke: none;
+}
+
+.social-links svg rect,
+.social-links svg circle:not(.social-links__dot) {
+  fill: none;
+}
+
+.social-links__dot {
+  stroke: none;
+}

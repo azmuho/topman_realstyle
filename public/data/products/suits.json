@@ -1,0 +1,386 @@
+[
+  {
+    "id": "suits-1",
+    "categorySlug": "suits",
+    "code": "SU-001",
+    "price": 6990,
+    "newArrival": true,
+    "sizes": ["48", "50", "52", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 1 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 1 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 1 in black"
+      }
+    ]
+  },
+  {
+    "id": "suits-2",
+    "categorySlug": "suits",
+    "code": "SU-002",
+    "price": 7490,
+    "newArrival": true,
+    "sizes": ["46", "48", "50", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 2 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 2 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 2 in grey"
+      }
+    ]
+  },
+  {
+    "id": "suits-3",
+    "categorySlug": "suits",
+    "code": "SU-003",
+    "price": 7990,
+    "newArrival": true,
+    "sizes": ["46", "48", "52", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 3 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 3 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 3 in navy"
+      }
+    ]
+  },
+  {
+    "id": "suits-4",
+    "categorySlug": "suits",
+    "code": "SU-004",
+    "price": 8490,
+    "newArrival": false,
+    "sizes": ["46", "50", "52", "54"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 4 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 4 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 4 in black"
+      }
+    ]
+  },
+  {
+    "id": "suits-5",
+    "categorySlug": "suits",
+    "code": "SU-005",
+    "price": 6990,
+    "newArrival": false,
+    "sizes": ["48", "50", "52", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 5 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 5 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 5 in grey"
+      }
+    ]
+  },
+  {
+    "id": "suits-6",
+    "categorySlug": "suits",
+    "code": "SU-006",
+    "price": 7490,
+    "newArrival": false,
+    "sizes": ["46", "48", "50", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 6 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 6 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 6 in navy"
+      }
+    ]
+  },
+  {
+    "id": "suits-7",
+    "categorySlug": "suits",
+    "code": "SU-007",
+    "price": 7990,
+    "newArrival": false,
+    "sizes": ["46", "48", "52", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 7 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 7 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 7 in black"
+      }
+    ]
+  },
+  {
+    "id": "suits-8",
+    "categorySlug": "suits",
+    "code": "SU-008",
+    "price": 8490,
+    "newArrival": false,
+    "sizes": ["46", "50", "52", "54"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 8 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 8 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 8 in grey"
+      }
+    ]
+  },
+  {
+    "id": "suits-9",
+    "categorySlug": "suits",
+    "code": "SU-009",
+    "price": 6990,
+    "newArrival": false,
+    "sizes": ["48", "50", "52", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 9 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 9 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 9 in navy"
+      }
+    ]
+  },
+  {
+    "id": "suits-10",
+    "categorySlug": "suits",
+    "code": "SU-010",
+    "price": 7490,
+    "newArrival": false,
+    "sizes": ["46", "48", "50", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 10 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 10 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 10 in black"
+      }
+    ]
+  },
+  {
+    "id": "suits-11",
+    "categorySlug": "suits",
+    "code": "SU-011",
+    "price": 7990,
+    "newArrival": false,
+    "sizes": ["46", "48", "52", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 11 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 11 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 11 in grey"
+      }
+    ]
+  },
+  {
+    "id": "suits-12",
+    "categorySlug": "suits",
+    "code": "SU-012",
+    "price": 8490,
+    "newArrival": false,
+    "sizes": ["46", "50", "52", "54"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/suits/suit-03-960.webp",
+        "thumbnail": "/images/products/suits/suit-03-480.webp",
+        "alt": "Suits item 12 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/suits/suit-01-960.webp",
+        "thumbnail": "/images/products/suits/suit-01-480.webp",
+        "alt": "Suits item 12 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/suits/suit-02-960.webp",
+        "thumbnail": "/images/products/suits/suit-02-480.webp",
+        "alt": "Suits item 12 in navy"
+      }
+    ]
+  }
+]

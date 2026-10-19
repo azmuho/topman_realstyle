@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "slug": "suits",
+    "name": "Suits",
+    "description": "Modern tailoring for business, celebrations and formal occasions.",
+    "image": "/images/categories/suits-960.webp",
+    "thumbnail": "/images/categories/suits-480.webp",
+    "filters": [],
+    "imageAlt": "Suits collection"
+  },
+  {
+    "id": 2,
+    "slug": "shirts",
+    "name": "Shirts",
+    "description": "Crisp formal shirts and versatile smart-casual staples.",
+    "image": "/images/categories/shirts-960.webp",
+    "thumbnail": "/images/categories/shirts-480.webp",
+    "filters": [
+      {
+        "key": "material",
+        "label": "Material",
+        "options": ["Linen", "Cotton"]
+      },
+      {
+        "key": "design",
+        "label": "Design",
+        "options": ["Plain", "Designed"]
+      },
+      {
+        "key": "style",
+        "label": "Style",
+        "options": ["Formal", "Smart-casual"]
+      }
+    ],
+    "imageAlt": "Shirts collection"
+  },
+  {
+    "id": 3,
+    "slug": "pants",
+    "name": "Pants",
+    "description": "Tailored trousers, chinos and denim with an easy modern fit.",
+    "image": "/images/categories/pants-960.webp",
+    "thumbnail": "/images/categories/pants-480.webp",
+    "filters": [
+      {
+        "key": "type",
+        "label": "Type",
+        "options": ["Formal", "Jeans", "Gabardine", "Linen", "Joggers"]
+      }
+    ],
+    "imageAlt": "Pants collection"
+  },
+  {
+    "id": 4,
+    "slug": "sport-blazers",
+    "name": "Sport Blazers",
+    "description": "Relaxed jackets that sharpen everyday combinations.",
+    "image": "/images/categories/sport-blazers-960.webp",
+    "thumbnail": "/images/categories/sport-blazers-480.webp",
+    "filters": [],
+    "imageAlt": "Sport Blazers collection"
+  },
+  {
+    "id": 5,
+    "slug": "tshirts-polos",
+    "name": "T-shirts & Polos",
+    "description": "Clean everyday essentials in comfortable, versatile fabrics.",
+    "image": "/images/categories/tshirts-polos-960.webp",
+    "thumbnail": "/images/categories/tshirts-polos-480.webp",
+    "filters": [
+      {
+        "key": "type",
+        "label": "Style",
+        "options": ["T-shirt", "Polo"]
+      },
+      {
+        "key": "design",
+        "label": "Design",
+        "options": ["Plain", "Designed"]
+      }
+    ],
+    "imageAlt": "T-shirts & Polos collection"
+  },
+  {
+    "id": 6,
+    "slug": "outerwear-knitwear",
+    "name": "Outerwear & Knitwear",
+    "description": "Layering pieces designed for changing weather and polished comfort.",
+    "image": "/images/categories/outerwear-knitwear-960.webp",
+    "thumbnail": "/images/categories/outerwear-knitwear-480.webp",
+    "filters": [],
+    "imageAlt": "Outerwear & Knitwear collection"
+  },
+  {
+    "id": 7,
+    "slug": "shoes",
+    "name": "Shoes",
+    "description": "Formal shoes, smart boots and refined everyday footwear.",
+    "image": "/images/categories/shoes-960.webp",
+    "thumbnail": "/images/categories/shoes-480.webp",
+    "filters": [
+      {
+        "key": "type",
+        "label": "Type",
+        "options": ["Classic", "Casual", "Loafers"]
+      }
+    ],
+    "imageAlt": "Shoes collection"
+  },
+  {
+    "id": 8,
+    "slug": "ties-belts",
+    "name": "Ties & Belts",
+    "description": "Finishing touches for formal looks and everyday refinement.",
+    "image": "/images/categories/ties-belts-960.webp",
+    "thumbnail": "/images/categories/ties-belts-480.webp",
+    "filters": [],
+    "imageAlt": "Ties & Belts collection"
+  }
+]

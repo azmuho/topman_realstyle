@@ -1,0 +1,410 @@
+[
+  {
+    "id": "tshirts-polos-1",
+    "categorySlug": "tshirts-polos",
+    "price": 790,
+    "newArrival": true,
+    "sizes": ["M", "L", "XL"],
+    "attributes": {
+      "type": "T-shirt",
+      "design": "Plain"
+    },
+    "variants": [
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 1 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 1 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 1 in red"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-2",
+    "categorySlug": "tshirts-polos",
+    "price": 940,
+    "newArrival": true,
+    "sizes": ["S", "M", "L", "XXL"],
+    "attributes": {
+      "type": "Polo",
+      "design": "Plain"
+    },
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 2 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 2 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 2 in white"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-3",
+    "categorySlug": "tshirts-polos",
+    "price": 1090,
+    "newArrival": true,
+    "sizes": ["S", "M", "XL", "XXL"],
+    "attributes": {
+      "type": "T-shirt",
+      "design": "Designed"
+    },
+    "variants": [
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 3 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 3 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 3 in navy"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-4",
+    "categorySlug": "tshirts-polos",
+    "price": 1240,
+    "newArrival": false,
+    "sizes": ["S", "L", "XL", "XXL"],
+    "attributes": {
+      "type": "Polo",
+      "design": "Plain"
+    },
+    "variants": [
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 4 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 4 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 4 in red"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-5",
+    "categorySlug": "tshirts-polos",
+    "price": 790,
+    "newArrival": false,
+    "sizes": ["M", "L", "XL"],
+    "attributes": {
+      "type": "T-shirt",
+      "design": "Plain"
+    },
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 5 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 5 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 5 in white"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-6",
+    "categorySlug": "tshirts-polos",
+    "price": 940,
+    "newArrival": false,
+    "sizes": ["S", "M", "L", "XXL"],
+    "attributes": {
+      "type": "Polo",
+      "design": "Designed"
+    },
+    "variants": [
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 6 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 6 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 6 in navy"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-7",
+    "categorySlug": "tshirts-polos",
+    "price": 1090,
+    "newArrival": false,
+    "sizes": ["S", "M", "XL", "XXL"],
+    "attributes": {
+      "type": "T-shirt",
+      "design": "Plain"
+    },
+    "variants": [
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 7 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 7 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 7 in red"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-8",
+    "categorySlug": "tshirts-polos",
+    "price": 1240,
+    "newArrival": false,
+    "sizes": ["S", "L", "XL", "XXL"],
+    "attributes": {
+      "type": "Polo",
+      "design": "Designed"
+    },
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 8 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 8 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 8 in white"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-9",
+    "categorySlug": "tshirts-polos",
+    "price": 790,
+    "newArrival": false,
+    "sizes": ["M", "L", "XL"],
+    "attributes": {
+      "type": "T-shirt",
+      "design": "Plain"
+    },
+    "variants": [
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 9 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 9 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 9 in navy"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-10",
+    "categorySlug": "tshirts-polos",
+    "price": 940,
+    "newArrival": false,
+    "sizes": ["S", "M", "L", "XXL"],
+    "attributes": {
+      "type": "Polo",
+      "design": "Plain"
+    },
+    "variants": [
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 10 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 10 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 10 in red"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-11",
+    "categorySlug": "tshirts-polos",
+    "price": 1090,
+    "newArrival": false,
+    "sizes": ["S", "M", "XL", "XXL"],
+    "attributes": {
+      "type": "T-shirt",
+      "design": "Designed"
+    },
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 11 in navy"
+      },
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 11 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 11 in white"
+      }
+    ]
+  },
+  {
+    "id": "tshirts-polos-12",
+    "categorySlug": "tshirts-polos",
+    "price": 1240,
+    "newArrival": false,
+    "sizes": ["S", "L", "XL", "XXL"],
+    "attributes": {
+      "type": "Polo",
+      "design": "Designed"
+    },
+    "variants": [
+      {
+        "colour": "Red",
+        "hex": "#a5222d",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 12 in red"
+      },
+      {
+        "colour": "White",
+        "hex": "#f1f1ed",
+        "image": "/images/products/tshirts-polos/tshirt-01-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-01-480.webp",
+        "alt": "T-shirts & Polos item 12 in white"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/tshirts-polos/tshirt-02-960.webp",
+        "thumbnail": "/images/products/tshirts-polos/tshirt-02-480.webp",
+        "alt": "T-shirts & Polos item 12 in navy"
+      }
+    ]
+  }
+]

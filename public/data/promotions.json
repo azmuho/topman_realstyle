@@ -1,0 +1,15 @@
+[
+  {
+    "id": "buy-one-get-one-free-2025",
+    "enabled": true,
+    "label": "Limited-time offer",
+    "title": "Buy one, get one free",
+    "description": "Buy one selected item and receive another selected item free.",
+    "terms": "On selected items and while stocks last.",
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "ctaLabel": "Browse collections",
+    "ctaRoute": "/",
+    "ctaFragment": "collections"
+  }
+]

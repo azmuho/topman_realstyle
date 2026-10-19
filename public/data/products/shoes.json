@@ -1,0 +1,410 @@
+[
+  {
+    "id": "shoes-1",
+    "categorySlug": "shoes",
+    "code": "FW-001",
+    "price": 2490,
+    "newArrival": true,
+    "sizes": ["41", "42", "43", "45"],
+    "attributes": {
+      "type": "Classic"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 1 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 1 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 1 in brown"
+      }
+    ]
+  },
+  {
+    "id": "shoes-2",
+    "categorySlug": "shoes",
+    "code": "FW-002",
+    "price": 2740,
+    "newArrival": true,
+    "sizes": ["40", "41", "42", "44", "45"],
+    "attributes": {
+      "type": "Casual"
+    },
+    "variants": [
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 2 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 2 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 2 in black"
+      }
+    ]
+  },
+  {
+    "id": "shoes-3",
+    "categorySlug": "shoes",
+    "code": "FW-003",
+    "price": 2990,
+    "newArrival": true,
+    "sizes": ["40", "41", "43", "44", "45"],
+    "attributes": {
+      "type": "Classic"
+    },
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 3 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 3 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 3 in tan"
+      }
+    ]
+  },
+  {
+    "id": "shoes-4",
+    "categorySlug": "shoes",
+    "code": "FW-004",
+    "price": 3240,
+    "newArrival": false,
+    "sizes": ["40", "42", "43", "44"],
+    "attributes": {
+      "type": "Casual"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 4 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 4 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 4 in brown"
+      }
+    ]
+  },
+  {
+    "id": "shoes-5",
+    "categorySlug": "shoes",
+    "code": "FW-005",
+    "price": 2490,
+    "newArrival": false,
+    "sizes": ["41", "42", "43", "45"],
+    "attributes": {
+      "type": "Classic"
+    },
+    "variants": [
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 5 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 5 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 5 in black"
+      }
+    ]
+  },
+  {
+    "id": "shoes-6",
+    "categorySlug": "shoes",
+    "code": "FW-006",
+    "price": 2740,
+    "newArrival": false,
+    "sizes": ["40", "41", "42", "44", "45"],
+    "attributes": {
+      "type": "Loafers"
+    },
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 6 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 6 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 6 in tan"
+      }
+    ]
+  },
+  {
+    "id": "shoes-7",
+    "categorySlug": "shoes",
+    "code": "FW-007",
+    "price": 2990,
+    "newArrival": false,
+    "sizes": ["40", "41", "43", "44", "45"],
+    "attributes": {
+      "type": "Classic"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 7 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 7 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 7 in brown"
+      }
+    ]
+  },
+  {
+    "id": "shoes-8",
+    "categorySlug": "shoes",
+    "code": "FW-008",
+    "price": 3240,
+    "newArrival": false,
+    "sizes": ["40", "42", "43", "44"],
+    "attributes": {
+      "type": "Casual"
+    },
+    "variants": [
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 8 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 8 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 8 in black"
+      }
+    ]
+  },
+  {
+    "id": "shoes-9",
+    "categorySlug": "shoes",
+    "code": "FW-009",
+    "price": 2490,
+    "newArrival": false,
+    "sizes": ["41", "42", "43", "45"],
+    "attributes": {
+      "type": "Casual"
+    },
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 9 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 9 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 9 in tan"
+      }
+    ]
+  },
+  {
+    "id": "shoes-10",
+    "categorySlug": "shoes",
+    "code": "FW-010",
+    "price": 2740,
+    "newArrival": false,
+    "sizes": ["40", "41", "42", "44", "45"],
+    "attributes": {
+      "type": "Classic"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 10 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 10 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 10 in brown"
+      }
+    ]
+  },
+  {
+    "id": "shoes-11",
+    "categorySlug": "shoes",
+    "code": "FW-011",
+    "price": 2990,
+    "newArrival": false,
+    "sizes": ["40", "41", "43", "44", "45"],
+    "attributes": {
+      "type": "Casual"
+    },
+    "variants": [
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 11 in tan"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 11 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 11 in black"
+      }
+    ]
+  },
+  {
+    "id": "shoes-12",
+    "categorySlug": "shoes",
+    "code": "FW-012",
+    "price": 3240,
+    "newArrival": false,
+    "sizes": ["40", "42", "43", "44"],
+    "attributes": {
+      "type": "Loafers"
+    },
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/shoes/shoes-03-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-03-480.webp",
+        "alt": "Shoes item 12 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1c1c1c",
+        "image": "/images/products/shoes/shoes-01-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-01-480.webp",
+        "alt": "Shoes item 12 in black"
+      },
+      {
+        "colour": "Tan",
+        "hex": "#a46f3f",
+        "image": "/images/products/shoes/shoes-02-960.webp",
+        "thumbnail": "/images/products/shoes/shoes-02-480.webp",
+        "alt": "Shoes item 12 in tan"
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "pants-1",
+    "categorySlug": "pants",
+    "price": 1990,
+    "newArrival": true,
+    "sizes": ["32", "34", "36", "40"],
+    "attributes": {
+      "type": "Gabardine"
+    },
+    "variants": [
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 1 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 1 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 1 in denim"
+      }
+    ]
+  },
+  {
+    "id": "pants-2",
+    "categorySlug": "pants",
+    "price": 2240,
+    "newArrival": true,
+    "sizes": ["30", "32", "34", "38", "40"],
+    "attributes": {
+      "type": "Formal"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 2 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 2 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 2 in beige"
+      }
+    ]
+  },
+  {
+    "id": "pants-3",
+    "categorySlug": "pants",
+    "price": 2490,
+    "newArrival": true,
+    "sizes": ["30", "32", "36", "38", "40"],
+    "attributes": {
+      "type": "Gabardine"
+    },
+    "variants": [
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 3 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 3 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 3 in black"
+      }
+    ]
+  },
+  {
+    "id": "pants-4",
+    "categorySlug": "pants",
+    "price": 2740,
+    "newArrival": false,
+    "sizes": ["30", "34", "36", "38"],
+    "attributes": {
+      "type": "Formal"
+    },
+    "variants": [
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 4 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 4 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 4 in denim"
+      }
+    ]
+  },
+  {
+    "id": "pants-5",
+    "categorySlug": "pants",
+    "price": 1990,
+    "newArrival": false,
+    "sizes": ["32", "34", "36", "40"],
+    "attributes": {
+      "type": "Jeans"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 5 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 5 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 5 in beige"
+      }
+    ]
+  },
+  {
+    "id": "pants-6",
+    "categorySlug": "pants",
+    "price": 2240,
+    "newArrival": false,
+    "sizes": ["30", "32", "34", "38", "40"],
+    "attributes": {
+      "type": "Joggers"
+    },
+    "variants": [
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 6 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 6 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 6 in black"
+      }
+    ]
+  },
+  {
+    "id": "pants-7",
+    "categorySlug": "pants",
+    "price": 2490,
+    "newArrival": false,
+    "sizes": ["30", "32", "36", "38", "40"],
+    "attributes": {
+      "type": "Formal"
+    },
+    "variants": [
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 7 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 7 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 7 in denim"
+      }
+    ]
+  },
+  {
+    "id": "pants-8",
+    "categorySlug": "pants",
+    "price": 2740,
+    "newArrival": false,
+    "sizes": ["30", "34", "36", "38"],
+    "attributes": {
+      "type": "Jeans"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 8 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 8 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 8 in beige"
+      }
+    ]
+  },
+  {
+    "id": "pants-9",
+    "categorySlug": "pants",
+    "price": 1990,
+    "newArrival": false,
+    "sizes": ["32", "34", "36", "40"],
+    "attributes": {
+      "type": "Formal"
+    },
+    "variants": [
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 9 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 9 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 9 in black"
+      }
+    ]
+  },
+  {
+    "id": "pants-10",
+    "categorySlug": "pants",
+    "price": 2240,
+    "newArrival": false,
+    "sizes": ["30", "32", "34", "38", "40"],
+    "attributes": {
+      "type": "Gabardine"
+    },
+    "variants": [
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 10 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 10 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 10 in denim"
+      }
+    ]
+  },
+  {
+    "id": "pants-11",
+    "categorySlug": "pants",
+    "price": 2490,
+    "newArrival": false,
+    "sizes": ["30", "32", "36", "38", "40"],
+    "attributes": {
+      "type": "Linen"
+    },
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 11 in black"
+      },
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 11 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 11 in beige"
+      }
+    ]
+  },
+  {
+    "id": "pants-12",
+    "categorySlug": "pants",
+    "price": 2740,
+    "newArrival": false,
+    "sizes": ["30", "34", "36", "38"],
+    "attributes": {
+      "type": "Formal"
+    },
+    "variants": [
+      {
+        "colour": "Denim",
+        "hex": "#42617d",
+        "image": "/images/products/pants/pants-03-960.webp",
+        "thumbnail": "/images/products/pants/pants-03-480.webp",
+        "alt": "Pants item 12 in denim"
+      },
+      {
+        "colour": "Beige",
+        "hex": "#c2aa7d",
+        "image": "/images/products/pants/pants-01-960.webp",
+        "thumbnail": "/images/products/pants/pants-01-480.webp",
+        "alt": "Pants item 12 in beige"
+      },
+      {
+        "colour": "Black",
+        "hex": "#202124",
+        "image": "/images/products/pants/pants-02-960.webp",
+        "thumbnail": "/images/products/pants/pants-02-480.webp",
+        "alt": "Pants item 12 in black"
+      }
+    ]
+  }
+]

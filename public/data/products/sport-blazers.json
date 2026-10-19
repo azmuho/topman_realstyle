@@ -1,0 +1,374 @@
+[
+  {
+    "id": "sport-blazers-1",
+    "categorySlug": "sport-blazers",
+    "price": 3990,
+    "newArrival": true,
+    "sizes": ["48", "50", "52", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 1 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 1 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 1 in grey"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-2",
+    "categorySlug": "sport-blazers",
+    "price": 4390,
+    "newArrival": true,
+    "sizes": ["46", "48", "50", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 2 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 2 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 2 in navy"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-3",
+    "categorySlug": "sport-blazers",
+    "price": 4790,
+    "newArrival": true,
+    "sizes": ["46", "48", "52", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 3 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 3 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 3 in black"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-4",
+    "categorySlug": "sport-blazers",
+    "price": 5190,
+    "newArrival": false,
+    "sizes": ["46", "50", "52", "54"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 4 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 4 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 4 in grey"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-5",
+    "categorySlug": "sport-blazers",
+    "price": 3990,
+    "newArrival": false,
+    "sizes": ["48", "50", "52", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 5 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 5 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 5 in navy"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-6",
+    "categorySlug": "sport-blazers",
+    "price": 4390,
+    "newArrival": false,
+    "sizes": ["46", "48", "50", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 6 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 6 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 6 in black"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-7",
+    "categorySlug": "sport-blazers",
+    "price": 4790,
+    "newArrival": false,
+    "sizes": ["46", "48", "52", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 7 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 7 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 7 in grey"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-8",
+    "categorySlug": "sport-blazers",
+    "price": 5190,
+    "newArrival": false,
+    "sizes": ["46", "50", "52", "54"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 8 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 8 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 8 in navy"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-9",
+    "categorySlug": "sport-blazers",
+    "price": 3990,
+    "newArrival": false,
+    "sizes": ["48", "50", "52", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 9 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 9 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 9 in black"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-10",
+    "categorySlug": "sport-blazers",
+    "price": 4390,
+    "newArrival": false,
+    "sizes": ["46", "48", "50", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 10 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 10 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 10 in grey"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-11",
+    "categorySlug": "sport-blazers",
+    "price": 4790,
+    "newArrival": false,
+    "sizes": ["46", "48", "52", "54", "56"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 11 in black"
+      },
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 11 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 11 in navy"
+      }
+    ]
+  },
+  {
+    "id": "sport-blazers-12",
+    "categorySlug": "sport-blazers",
+    "price": 5190,
+    "newArrival": false,
+    "sizes": ["46", "50", "52", "54"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Grey",
+        "hex": "#84878b",
+        "image": "/images/products/sport-blazers/suit-01-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-01-480.webp",
+        "alt": "Sport Blazers item 12 in grey"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/sport-blazers/suit-02-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-02-480.webp",
+        "alt": "Sport Blazers item 12 in navy"
+      },
+      {
+        "colour": "Black",
+        "hex": "#181818",
+        "image": "/images/products/sport-blazers/suit-03-960.webp",
+        "thumbnail": "/images/products/sport-blazers/suit-03-480.webp",
+        "alt": "Sport Blazers item 12 in black"
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+<div id="category-page-wireframe" aria-label="Category page wireframe for a clothing catalogue">
+  <style>
+    #category-page-wireframe { --ink: light-dark(#202020,#efefef); --paper: light-dark(#ffffff,#1c1c1c); --soft: light-dark(#f0f0f0,#303030); --line: light-dark(#7a7a7a,#888); --muted: light-dark(#585858,#c8c8c8); max-width:980px; margin:0 auto; font-family:Arial,sans-serif; color:var(--ink); }
+    #category-page-wireframe * { box-sizing:border-box; }
+    #category-page-wireframe .page { background:var(--paper); border:2px solid var(--ink); }
+    #category-page-wireframe .topbar { display:flex; align-items:center; justify-content:space-between; min-height:64px; padding:12px 28px; border-bottom:1px solid var(--line); }
+    #category-page-wireframe .brand { display:flex; gap:12px; align-items:center; font-weight:700; letter-spacing:.04em; }
+    #category-page-wireframe .logo { width:34px; height:34px; border:2px solid var(--ink); border-radius:50%; display:grid; place-items:center; font-size:10px; }
+    #category-page-wireframe .nav { display:flex; gap:21px; font-size:13px; }
+    #category-page-wireframe .intro { padding:27px 28px 25px; border-bottom:1px solid var(--line); }
+    #category-page-wireframe .crumb { color:var(--muted); font-size:12px; margin-bottom:20px; }
+    #category-page-wireframe h1 { margin:0 0 9px; font-size:31px; letter-spacing:-.02em; }
+    #category-page-wireframe .intro p { margin:0; color:var(--muted); font-size:14px; line-height:1.45; }
+    #category-page-wireframe .catalogue-bar { padding:15px 28px; display:flex; align-items:center; justify-content:space-between; border-bottom:1px solid var(--line); font-size:13px; }
+    #category-page-wireframe .catalogue-bar strong { font-size:14px; }
+    #category-page-wireframe .note { color:var(--muted); font-size:12px; }
+    #category-page-wireframe .products { padding:27px 28px 36px; display:grid; grid-template-columns:repeat(3,1fr); gap:19px; }
+    #category-page-wireframe .product { min-width:0; }
+    #category-page-wireframe .photo { position:relative; height:222px; background:repeating-linear-gradient(135deg,var(--soft),var(--soft) 10px,light-dark(#dedede,#3b3b3b) 10px,light-dark(#dedede,#3b3b3b) 20px); border:1px solid var(--line); display:grid; place-items:center; color:var(--muted); font-size:12px; }
+    #category-page-wireframe .badge { position:absolute; top:10px; left:10px; padding:5px 7px; background:var(--ink); color:var(--paper); font-size:10px; font-weight:700; letter-spacing:.03em; }
+    #category-page-wireframe .product h2 { margin:12px 0 5px; font-size:14px; }
+    #category-page-wireframe .code { color:var(--muted); font-size:12px; margin-bottom:8px; }
+    #category-page-wireframe .details { display:grid; grid-template-columns:58px 1fr; gap:8px; align-items:center; font-size:12px; line-height:1.35; }
+    #category-page-wireframe .details b { font-weight:700; }
+    #category-page-wireframe .swatches { display:flex; flex-wrap:wrap; gap:7px; }
+    #category-page-wireframe .swatch { width:19px; height:19px; padding:0; border:1px solid var(--line); border-radius:0; background:var(--swatch); }
+    #category-page-wireframe .swatch.is-active { outline:2px solid var(--ink); outline-offset:2px; }
+    #category-page-wireframe .swatch.black { --swatch:#181818; } #category-page-wireframe .swatch.navy { --swatch:#172d51; } #category-page-wireframe .swatch.grey { --swatch:#8a8e92; } #category-page-wireframe .swatch.beige { --swatch:#c8b48b; } #category-page-wireframe .swatch.charcoal { --swatch:#47484b; } #category-page-wireframe .swatch.blue { --swatch:#4a73a1; } #category-page-wireframe .swatch.brown { --swatch:#755039; }
+    #category-page-wireframe footer { padding:24px 28px; background:light-dark(#292929,#090909); color:#fff; display:flex; justify-content:space-between; gap:20px; font-size:12px; }
+    #category-page-wireframe .links { display:flex; gap:17px; flex-wrap:wrap; color:#e5e5e5; }
+    @media (max-width:640px) { #category-page-wireframe .nav { display:none; } #category-page-wireframe .products { grid-template-columns:repeat(2,1fr); padding:20px 16px 28px; gap:14px; } #category-page-wireframe .intro,#category-page-wireframe .catalogue-bar { padding-left:16px; padding-right:16px; } #category-page-wireframe .photo { height:180px; } #category-page-wireframe footer { flex-direction:column; } }
+  </style>
+  <div class="page">
+    <header class="topbar">
+      <div class="brand"><div class="logo">LOGO</div><span>SHOP NAME</span></div>
+      <nav class="nav" aria-label="Main navigation"><span>Home</span><span>Collections</span><span>Locations</span><span>About</span><span>Contact</span></nav>
+    </header>
+    <main>
+      <section class="intro">
+        <div class="crumb">Home / Collections / Suits</div>
+        <h1>Suits</h1>
+        <p>Browse all suits currently available in our stores.</p>
+      </section>
+      <div class="catalogue-bar"><strong>Available suits</strong><span class="note">New arrivals appear first · each style lists its current sizes and colours.</span></div>
+      <section class="products" aria-label="Suit catalogue">
+        <article class="product"><div class="photo"><span class="badge">NEW ARRIVAL</span><span class="image-label">BLACK SUIT IMAGE</span></div><h2>Model / Style Name</h2><div class="code">Code: ST-001</div><div class="details"><b>Sizes</b><span>48 · 50 · 52 · 54</span><b>Colours</b><span class="swatches"><button class="swatch black is-active" type="button" data-colour="Black" aria-label="View Black suit image"></button><button class="swatch navy" type="button" data-colour="Navy" aria-label="View Navy suit image"></button></span></div></article>
+        <article class="product"><div class="photo"><span class="badge">NEW ARRIVAL</span><span class="image-label">GREY SUIT IMAGE</span></div><h2>Model / Style Name</h2><div class="code">Code: ST-002</div><div class="details"><b>Sizes</b><span>48 · 50 · 52</span><b>Colours</b><span class="swatches"><button class="swatch grey is-active" type="button" data-colour="Grey" aria-label="View Grey suit image"></button><button class="swatch navy" type="button" data-colour="Navy" aria-label="View Navy suit image"></button></span></div></article>
+        <article class="product"><div class="photo"><span class="badge">NEW ARRIVAL</span><span class="image-label">BEIGE SUIT IMAGE</span></div><h2>Model / Style Name</h2><div class="code">Code: ST-003</div><div class="details"><b>Sizes</b><span>50 · 52 · 54</span><b>Colours</b><span class="swatches"><button class="swatch beige is-active" type="button" data-colour="Beige" aria-label="View Beige suit image"></button><button class="swatch black" type="button" data-colour="Black" aria-label="View Black suit image"></button></span></div></article>
+        <article class="product"><div class="photo"><span class="image-label">CHARCOAL SUIT IMAGE</span></div><h2>Model / Style Name</h2><div class="code">Code: ST-004</div><div class="details"><b>Sizes</b><span>48 · 50 · 52 · 54</span><b>Colours</b><span class="swatches"><button class="swatch charcoal is-active" type="button" data-colour="Charcoal" aria-label="View Charcoal suit image"></button></span></div></article>
+        <article class="product"><div class="photo"><span class="image-label">NAVY SUIT IMAGE</span></div><h2>Model / Style Name</h2><div class="code">Code: ST-005</div><div class="details"><b>Sizes</b><span>50 · 52 · 54</span><b>Colours</b><span class="swatches"><button class="swatch navy is-active" type="button" data-colour="Navy" aria-label="View Navy suit image"></button><button class="swatch blue" type="button" data-colour="Blue" aria-label="View Blue suit image"></button></span></div></article>
+        <article class="product"><div class="photo"><span class="image-label">BROWN SUIT IMAGE</span></div><h2>Model / Style Name</h2><div class="code">Code: ST-006</div><div class="details"><b>Sizes</b><span>48 · 50 · 52</span><b>Colours</b><span class="swatches"><button class="swatch brown is-active" type="button" data-colour="Brown" aria-label="View Brown suit image"></button><button class="swatch beige" type="button" data-colour="Beige" aria-label="View Beige suit image"></button></span></div></article>
+      </section>
+    </main>
+    <footer><div>SHOP NAME · © 2026</div><div class="links"><span>About us</span><span>Contact us</span><span>Locations</span><span>Instagram</span></div></footer>
+  </div>
+  <script>
+    (() => {
+      const root = document.getElementById('category-page-wireframe');
+      root.querySelectorAll('.swatch').forEach((swatch) => {
+        swatch.addEventListener('click', () => {
+          const product = swatch.closest('.product');
+          product.querySelectorAll('.swatch').forEach((item) => item.classList.remove('is-active'));
+          swatch.classList.add('is-active');
+          product.querySelector('.image-label').textContent = `${swatch.dataset.colour.toUpperCase()} SUIT IMAGE`;
+          window.openai?.setWidgetState?.({ privateContent: { selectedColour: swatch.dataset.colour } }).catch(() => {});
+        });
+      });
+    })();
+  </script>
+</div>

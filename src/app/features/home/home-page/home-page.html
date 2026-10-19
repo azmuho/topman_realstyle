@@ -1,0 +1,177 @@
+<main>
+  <section class="hero">
+    <div class="hero__inner container">
+      <div class="hero__content">
+        <p class="eyebrow">Topman Realstyle</p>
+        <h1>Modern menswear,<br />made simple.</h1>
+        <p class="hero__intro">
+          Discover confident tailoring and versatile everyday style, curated for the modern man.
+        </p>
+        <div class="hero__actions">
+          <a class="button button--primary" routerLink="/" fragment="collections">
+            Explore collections
+          </a>
+          <a class="button button--secondary" routerLink="/" fragment="locations">Find a store</a>
+        </div>
+      </div>
+
+      <div class="hero__visual">
+        <img
+          src="/images/hero/hero-main-1600.webp"
+          srcset="/images/hero/hero-main-800.webp 800w, /images/hero/hero-main-1600.webp 1600w"
+          sizes="(max-width: 768px) 100vw, 55vw"
+          alt="Man wearing a modern black suit"
+          width="1600"
+          height="2000"
+          fetchpriority="high"
+        />
+        <div class="hero__visual-copy">
+          <span>New season</span>
+          <strong>Confidence in every detail</strong>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  @if (activePromotion(); as promotion) {
+    <section id="offer" class="section promotion" aria-labelledby="promotion-title">
+      <div class="promotion__card container">
+        <div class="promotion__visual" aria-hidden="true">
+          <span>1</span>
+          <strong>+</strong>
+          <span>1</span>
+        </div>
+        <div class="promotion__content">
+          <p class="eyebrow">{{ promotion.label }}</p>
+          <h2 id="promotion-title" class="display-title">{{ promotion.title }}</h2>
+          <p>{{ promotion.description }}</p>
+          <small>{{ promotion.terms }}</small>
+          <a
+            class="button button--primary"
+            [routerLink]="promotion.ctaRoute"
+            [fragment]="promotion.ctaFragment"
+          >
+            {{ promotion.ctaLabel }}
+          </a>
+        </div>
+      </div>
+    </section>
+  }
+
+  <section id="collections" class="section collections">
+    <div class="container">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Our collections</p>
+          <h2 class="display-title">Dress for every moment.</h2>
+        </div>
+        <p>Browse models, available sizes and colours across our complete menswear collection.</p>
+      </div>
+
+      <div class="category-grid">
+        @for (category of categories(); track category.slug) {
+          <a class="category-card" [routerLink]="['/collections', category.slug]">
+            <div class="category-card__media">
+              <img
+                [src]="category.image"
+                [srcset]="category.thumbnail + ' 480w, ' + category.image + ' 960w'"
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                [alt]="category.imageAlt"
+                width="960"
+                height="1200"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+            <div class="category-card__content">
+              <h3>{{ category.name }}</h3>
+              <span aria-hidden="true">&rarr;</span>
+            </div>
+          </a>
+        }
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="brand-story">
+    <div class="brand-story__inner container">
+      <p class="eyebrow">Topman Realstyle</p>
+      <h2>Sharp style. Effortless confidence.</h2>
+      <p>
+        From polished occasionwear to relaxed essentials, our collection brings modern style within
+        easy reach.
+      </p>
+    </div>
+  </section>
+
+  <section id="services" class="section services" aria-labelledby="services-title">
+    <div class="container">
+      <div class="service-card">
+        <div class="service-card__media">
+          <img
+            src="/images/services/adjustments-1600.webp"
+            srcset="
+              /images/services/adjustments-800.webp   800w,
+              /images/services/adjustments-1600.webp 1600w
+            "
+            sizes="(max-width: 768px) 100vw, 42vw"
+            alt="Tailor cutting fabric for an in-store garment adjustment"
+            width="1600"
+            height="1145"
+            loading="lazy"
+            decoding="async"
+          />
+        </div>
+        <div class="service-card__content">
+          <p class="eyebrow">In-store service</p>
+          <h2 id="services-title" class="display-title">Adjustments done on the spot.</h2>
+          <p>
+            Get a better fit without the long wait. On-the-spot adjustments are available on
+            weekdays for garments brought in before 4:00 PM.
+          </p>
+          <ul class="service-card__options" aria-label="Available adjustment types">
+            <li>Shoulders</li>
+            <li>Length</li>
+            <li>Sleeves</li>
+            <li>Trousers</li>
+          </ul>
+        </div>
+        <div class="service-card__detail">
+          <span>Monday - Friday</span>
+          <strong>Before 4:00 PM</strong>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="locations" class="section locations">
+    <div class="container">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Visit us</p>
+          <h2 class="display-title">Find your nearest store.</h2>
+        </div>
+        <p>View each store's opening hours and open directions in Google Maps.</p>
+      </div>
+
+      <div class="location-grid" aria-label="Store locations">
+        @for (store of locations(); track store.id) {
+          <article class="location-card">
+            <h3>{{ store.name }}</h3>
+            <div class="location-card__hours">
+              <h4>Opening hours</h4>
+              <ul>
+                @for (line of store.hours; track line) {
+                  <li>{{ line }}</li>
+                }
+              </ul>
+            </div>
+            <a [href]="store.mapUrl" target="_blank" rel="noopener noreferrer">
+              Open in Google Maps &nearr;
+            </a>
+          </article>
+        }
+      </div>
+    </div>
+  </section>
+</main>

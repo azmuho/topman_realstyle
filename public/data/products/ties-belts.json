@@ -1,0 +1,374 @@
+[
+  {
+    "id": "ties-belts-1",
+    "categorySlug": "ties-belts",
+    "price": 890,
+    "newArrival": true,
+    "sizes": ["32", "34", "36", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 1 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 1 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 1 in brown"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-2",
+    "categorySlug": "ties-belts",
+    "price": 1040,
+    "newArrival": true,
+    "sizes": ["One size", "32", "34", "38", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 2 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 2 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 2 in black"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-3",
+    "categorySlug": "ties-belts",
+    "price": 1190,
+    "newArrival": true,
+    "sizes": ["One size", "32", "36", "38", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 3 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 3 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 3 in navy"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-4",
+    "categorySlug": "ties-belts",
+    "price": 1340,
+    "newArrival": false,
+    "sizes": ["One size", "34", "36", "38"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 4 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 4 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 4 in brown"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-5",
+    "categorySlug": "ties-belts",
+    "price": 890,
+    "newArrival": false,
+    "sizes": ["32", "34", "36", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 5 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 5 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 5 in black"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-6",
+    "categorySlug": "ties-belts",
+    "price": 1040,
+    "newArrival": false,
+    "sizes": ["One size", "32", "34", "38", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 6 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 6 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 6 in navy"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-7",
+    "categorySlug": "ties-belts",
+    "price": 1190,
+    "newArrival": false,
+    "sizes": ["One size", "32", "36", "38", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 7 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 7 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 7 in brown"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-8",
+    "categorySlug": "ties-belts",
+    "price": 1340,
+    "newArrival": false,
+    "sizes": ["One size", "34", "36", "38"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 8 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 8 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 8 in black"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-9",
+    "categorySlug": "ties-belts",
+    "price": 890,
+    "newArrival": false,
+    "sizes": ["32", "34", "36", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 9 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 9 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 9 in navy"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-10",
+    "categorySlug": "ties-belts",
+    "price": 1040,
+    "newArrival": false,
+    "sizes": ["One size", "32", "34", "38", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 10 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 10 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 10 in brown"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-11",
+    "categorySlug": "ties-belts",
+    "price": 1190,
+    "newArrival": false,
+    "sizes": ["One size", "32", "36", "38", "40"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 11 in navy"
+      },
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 11 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 11 in black"
+      }
+    ]
+  },
+  {
+    "id": "ties-belts-12",
+    "categorySlug": "ties-belts",
+    "price": 1340,
+    "newArrival": false,
+    "sizes": ["One size", "34", "36", "38"],
+    "attributes": {},
+    "variants": [
+      {
+        "colour": "Brown",
+        "hex": "#67452f",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 12 in brown"
+      },
+      {
+        "colour": "Black",
+        "hex": "#1b1b1b",
+        "image": "/images/products/ties-belts/tie-01-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-01-480.webp",
+        "alt": "Ties & Belts item 12 in black"
+      },
+      {
+        "colour": "Navy",
+        "hex": "#172d51",
+        "image": "/images/products/ties-belts/tie-02-960.webp",
+        "thumbnail": "/images/products/ties-belts/tie-02-480.webp",
+        "alt": "Ties & Belts item 12 in navy"
+      }
+    ]
+  }
+]

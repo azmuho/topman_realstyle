@@ -1,0 +1,108 @@
+.product-card {
+  height: 100%;
+  overflow: hidden;
+  background: var(--color-white);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 0.3rem 1.25rem rgb(17 28 52 / 6%);
+  transition:
+    box-shadow 240ms ease,
+    transform 240ms ease;
+}
+
+.product-card:hover {
+  background: linear-gradient(145deg, var(--color-white), #f7f1f3);
+  box-shadow: var(--shadow-card);
+  transform: translateY(-0.25rem);
+}
+
+.product-card__media {
+  position: relative;
+  overflow: hidden;
+  background: var(--color-surface);
+  aspect-ratio: 4 / 5;
+}
+
+.product-card__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 300ms ease;
+}
+
+.product-card:hover .product-card__media img {
+  transform: scale(1.025);
+}
+
+.product-card__badge {
+  position: absolute;
+  z-index: 1;
+  top: var(--space-3);
+  left: var(--space-3);
+  padding: 0.45rem 0.65rem;
+  background: var(--color-brand-red);
+  color: var(--color-white);
+  border-radius: var(--radius-sm);
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: var(--letter-spacing-label);
+  text-transform: uppercase;
+}
+
+.product-card__body {
+  padding: var(--space-4) var(--space-4) var(--space-5);
+  border-top: 1px solid var(--color-border);
+}
+
+.product-card__code {
+  margin-bottom: var(--space-3);
+  color: var(--color-text-muted);
+  font-size: var(--font-size-xs);
+}
+
+.product-card__details,
+.product-card__details div {
+  margin: 0;
+}
+
+.product-card__details div {
+  display: grid;
+  align-items: center;
+  margin-top: var(--space-2);
+  grid-template-columns: 4rem 1fr;
+  gap: var(--space-2);
+  font-size: var(--font-size-xs);
+}
+
+.product-card__details dt {
+  font-weight: 700;
+}
+
+.product-card__details dd {
+  margin: 0;
+}
+
+.product-card__price {
+  color: var(--color-brand-red);
+  font-weight: 800;
+}
+
+.swatches {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.swatch {
+  width: 1.1rem;
+  height: 1.1rem;
+  padding: 0;
+  background: var(--swatch-colour);
+  border: 1px solid rgb(17 28 52 / 32%);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.swatch--active {
+  outline: 2px solid var(--color-brand-navy);
+  outline-offset: 2px;
+}

@@ -1,0 +1,107 @@
+<div id="clothing-home-wireframe" aria-label="Homepage wireframe for a clothing store">
+  <style>
+    #clothing-home-wireframe { font-family: Arial, sans-serif; color: #202124; max-width: 980px; margin: 0 auto; }
+    #clothing-home-wireframe * { box-sizing: border-box; }
+    #clothing-home-wireframe .page { border: 2px solid #252525; background: #fff; }
+    #clothing-home-wireframe .topbar { min-height: 64px; display: flex; align-items: center; justify-content: space-between; padding: 12px 28px; border-bottom: 1px solid #777; }
+    #clothing-home-wireframe .brand { display: flex; align-items: center; gap: 12px; font-weight: 700; letter-spacing: .04em; }
+    #clothing-home-wireframe .logo { width: 34px; height: 34px; border: 2px solid #333; border-radius: 50%; display: grid; place-items: center; font-size: 10px; }
+    #clothing-home-wireframe .nav { display: flex; gap: 22px; font-size: 13px; }
+    #clothing-home-wireframe .hero { min-height: 238px; display: grid; grid-template-columns: 1.05fr .95fr; border-bottom: 1px solid #777; }
+    #clothing-home-wireframe .hero-copy { padding: 46px 44px; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; }
+    #clothing-home-wireframe h1 { font-size: 31px; margin: 0 0 13px; letter-spacing: -.02em; }
+    #clothing-home-wireframe p { line-height: 1.45; margin: 0; color: #4c4c4c; }
+    #clothing-home-wireframe .button { margin-top: 23px; padding: 10px 16px; border: 1px solid #333; font-size: 12px; font-weight: 700; }
+    #clothing-home-wireframe .hero-image { margin: 24px; background: repeating-linear-gradient(135deg,#e5e5e5,#e5e5e5 10px,#d5d5d5 10px,#d5d5d5 20px); display: grid; place-items: center; color: #555; font-size: 13px; text-align: center; }
+    #clothing-home-wireframe section { padding: 34px 28px; border-bottom: 1px solid #777; }
+    #clothing-home-wireframe h2 { font-size: 20px; margin: 0 0 8px; }
+    #clothing-home-wireframe .section-note { font-size: 13px; margin-bottom: 24px; }
+    #clothing-home-wireframe .categories { display: grid; grid-template-columns: repeat(4,1fr); gap: 16px; }
+    #clothing-home-wireframe .category { min-height: 150px; border: 1px solid #666; display: flex; flex-direction: column; justify-content: flex-end; }
+    #clothing-home-wireframe .category-image { flex: 1; background: #e8e8e8; margin: 10px 10px 0; display: grid; place-items: center; color: #777; font-size: 11px; }
+    #clothing-home-wireframe .category-name { padding: 12px 10px; font-weight: 700; font-size: 13px; }
+    #clothing-home-wireframe .locations { background: #f2f2f2; }
+    #clothing-home-wireframe .stores { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; }
+    #clothing-home-wireframe .store { border: 1px solid #777; background: #fff; padding: 18px 12px; min-height: 125px; display:flex; flex-direction:column; justify-content:space-between; align-items:flex-start; }
+    #clothing-home-wireframe .store strong { display: block; font-size: 14px; }
+    #clothing-home-wireframe .store button { padding:0; border:0; background:transparent; color:#202124; font-weight:700; text-decoration:underline; font-size:12px; }
+    #clothing-home-wireframe dialog { width:min(510px, calc(100% - 32px)); border:2px solid #252525; padding:0; color:#202124; background:#fff; }
+    #clothing-home-wireframe dialog::backdrop { background:rgba(0,0,0,.55); }
+    #clothing-home-wireframe .modal-head { display:flex; justify-content:space-between; align-items:center; padding:19px 22px; border-bottom:1px solid #777; }
+    #clothing-home-wireframe .modal-head h2 { margin:0; font-size:21px; }
+    #clothing-home-wireframe .close { border:1px solid #555; background:#fff; color:#202124; padding:7px 10px; font-size:12px; }
+    #clothing-home-wireframe .modal-content { padding:22px; font-size:14px; line-height:1.55; }
+    #clothing-home-wireframe .modal-content p { margin:0 0 14px; color:#202124; }
+    #clothing-home-wireframe .map-link { display:inline-block; margin-top:8px; padding:10px 13px; border:1px solid #333; color:#202124; font-size:12px; font-weight:700; text-decoration:none; }
+    #clothing-home-wireframe footer { padding: 24px 28px; background: #292929; color: #fff; display: flex; justify-content: space-between; gap: 24px; font-size: 12px; }
+    #clothing-home-wireframe .footer-links { display: flex; gap: 18px; flex-wrap: wrap; color: #e5e5e5; }
+    @media (max-width: 640px) { #clothing-home-wireframe .nav { display:none; } #clothing-home-wireframe .hero { grid-template-columns:1fr; } #clothing-home-wireframe .hero-image { min-height:160px; } #clothing-home-wireframe .categories { grid-template-columns:repeat(2,1fr); } #clothing-home-wireframe .stores { grid-template-columns:repeat(2,1fr); } #clothing-home-wireframe footer { flex-direction:column; } }
+  </style>
+  <div class="page">
+    <header class="topbar">
+      <div class="brand"><div class="logo">LOGO</div><span>SHOP NAME</span></div>
+      <nav class="nav" aria-label="Main navigation"><span>Home</span><span>Collections</span><span>Locations</span><span>About</span><span>Contact</span></nav>
+    </header>
+    <main>
+      <div class="hero">
+        <div class="hero-copy"><h1>Modern menswear, made simple.</h1><p>A short introduction to the shop and the collections available in store.</p><div class="button">VIEW COLLECTIONS</div></div>
+        <div class="hero-image">HERO IMAGE<br>lifestyle or signature look</div>
+      </div>
+      <section>
+        <h2>Explore the collection</h2>
+        <p class="section-note">Choose a category to view models, available sizes, colours and item codes.</p>
+        <div class="categories">
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">Suits</div></div>
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">Shirts</div></div>
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">Pants</div></div>
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">Sport Blazers</div></div>
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">T-shirts &amp; Polos</div></div>
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">Outerwear &amp; Knitwear</div></div>
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">Shoes</div></div>
+          <div class="category"><div class="category-image">IMAGE</div><div class="category-name">Ties &amp; Belts</div></div>
+        </div>
+      </section>
+      <section class="locations">
+        <h2>Visit one of our stores</h2>
+        <p class="section-note">Select a location to see the address, opening hours and directions.</p>
+        <div class="stores">
+          <article class="store"><strong>Bagatelle</strong><button type="button" data-location="Bagatelle">View details →</button></article>
+          <article class="store"><strong>Location 2</strong><button type="button" data-location="Location 2">View details →</button></article>
+          <article class="store"><strong>Location 3</strong><button type="button" data-location="Location 3">View details →</button></article>
+          <article class="store"><strong>Location 4</strong><button type="button" data-location="Location 4">View details →</button></article>
+          <article class="store"><strong>Location 5</strong><button type="button" data-location="Location 5">View details →</button></article>
+        </div>
+      </section>
+    </main>
+    <footer><div>SHOP NAME · © 2026</div><div class="footer-links"><span>About us</span><span>Contact us</span><span>Locations</span><span>Instagram</span></div></footer>
+  </div>
+  <dialog aria-labelledby="location-title">
+    <div class="modal-head"><h2 id="location-title">Bagatelle</h2><button class="close" type="button">Close</button></div>
+    <div class="modal-content"><p id="location-address">Alley 42<br>Market Street</p><p id="location-hours">Mon–Thur: 10:00 – 20:30<br>Fri–Sat: 10:00 – 22:00<br>Sun &amp; Public holiday: 10:00 – 17:00</p><a id="map-link" class="map-link" href="#">Open in Google Maps ↗</a></div>
+  </dialog>
+  <script>
+    (() => {
+      const root = document.getElementById('clothing-home-wireframe');
+      const dialog = root.querySelector('dialog');
+      const title = root.querySelector('#location-title');
+      const address = root.querySelector('#location-address');
+      const hours = root.querySelector('#location-hours');
+      const locations = {
+        'Bagatelle': { address: 'Alley 42<br>Market Street', hours: 'Mon–Thur: 10:00 – 20:30<br>Fri–Sat: 10:00 – 22:00<br>Sun &amp; Public holiday: 10:00 – 17:00' },
+        'Location 2': { address: 'Street address<br>Area / city', hours: 'Opening hours' },
+        'Location 3': { address: 'Street address<br>Area / city', hours: 'Opening hours' },
+        'Location 4': { address: 'Street address<br>Area / city', hours: 'Opening hours' },
+        'Location 5': { address: 'Street address<br>Area / city', hours: 'Opening hours' }
+      };
+      root.querySelectorAll('[data-location]').forEach((button) => button.addEventListener('click', () => {
+        const location = locations[button.dataset.location];
+        title.textContent = button.dataset.location;
+        address.innerHTML = location.address;
+        hours.innerHTML = location.hours;
+        dialog.showModal();
+        window.openai?.setWidgetState?.({ privateContent: { location: button.dataset.location } }).catch(() => {});
+      }));
+      root.querySelector('.close').addEventListener('click', () => dialog.close());
+    })();
+  </script>
+</div>

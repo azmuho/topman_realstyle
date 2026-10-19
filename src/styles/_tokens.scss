@@ -1,0 +1,54 @@
+:root {
+  color-scheme: light;
+
+  // Brand palette
+  --color-brand-navy: #111c34;
+  --color-brand-navy-soft: #1b2a49;
+  --color-brand-red: #e50112;
+  --color-brand-red-dark: #b9010e;
+  --color-white: #ffffff;
+
+  // Supporting neutrals
+  --color-background: #ffffff;
+  --color-surface: #f5f6f8;
+  --color-surface-strong: #e9ecf1;
+  --color-text: #111c34;
+  --color-text-muted: #606775;
+  --color-border: #d8dde5;
+
+  // Typography
+  --font-display: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+  --font-body: 'Manrope', 'Helvetica Neue', Arial, sans-serif;
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.5rem;
+  --font-size-2xl: clamp(2rem, 4vw, 3.5rem);
+  --line-height-tight: 1.1;
+  --line-height-base: 1.6;
+  --letter-spacing-display: -0.03em;
+  --letter-spacing-label: 0.08em;
+
+  // Layout
+  --content-width: 75rem;
+  --page-gutter: clamp(1rem, 4vw, 3rem);
+  --section-space: clamp(3.5rem, 8vw, 7rem);
+
+  // Spacing
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  // Shape and effects
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 1rem;
+  --shadow-card: 0 0.75rem 2.5rem rgb(17 28 52 / 10%);
+  --transition-fast: 160ms ease;
+}
